@@ -1,2 +1,2 @@
-include ':app', ':blurscript'
+include ':blurscript'
 rootProject.name='android-background-blur-transparent'
